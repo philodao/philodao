@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I am Philodao, working as a full stack developer in Korea.
 
 **About me**
 
@@ -34,10 +34,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 
 <a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="jeongseong2 | Twitter" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png" />
+<code><img align="right" alt="jeongseong2 | Twitter" width="21px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png" /></code>
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="jeongseong | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/blogger/blogger.png" />
+  <img align="right" alt="jeongseong | CodeSandbox" width="20px" src="https://user-images.githubusercontent.com/91887888/145205204-8041d35b-ee54-48f9-9c0d-32a5e01d2ac7.png" />
 </a>
 <!--
 **jeongseong2/jeongseong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
