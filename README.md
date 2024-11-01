@@ -34,8 +34,8 @@ I am Philodao, working as a full stack developer in Korea.
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=philodao&repo=philodao&theme=buefy" />
+<a href="https://github.com/philodao/Spring-Security-6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=philodao&repo=Spring-Security-6&theme=buefy" />
 </a>
 
 <br />
