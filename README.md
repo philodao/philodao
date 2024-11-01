@@ -18,13 +18,13 @@ I am Philodao, working as a full stack developer in Korea.
 <br/>
 
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"></code>
+<code><img height="20" alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=000000"></code>
+<code><img height="20" alt="typescript" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000000"></code>
+<code><img height="20" alt="typescript" src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=000000"></code>
+<code><img height="20" alt="typescript" src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=000000"></code>
+<code><img height="20" alt="typescript" src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=000000"></code>
+<code><img height="20" alt="typescript" src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=000000"></code>
 
   
 | <a href="https://github.com/philodao/philodao"><img align="center" src="https://github-readme-stats.vercel.app/api?username=philodao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/philodao/philodao"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philodao&layout=compact&theme=buefy&hide_border=true" /></a> |
