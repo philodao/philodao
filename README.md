@@ -35,7 +35,7 @@ I am Philodao, working as a full stack developer in Korea.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeongseong2&repo=philodao&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=philodao&repo=philodao&theme=buefy" />
 </a>
 
 <br />
