@@ -37,7 +37,7 @@ I am Philodao, working as a full stack developer in Korea.
 <a href="https://github.com/philodao/Spring-Security-6">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=philodao&repo=Spring-Security-6&theme=buefy" />
 </a>
-<a href="https://github.com/philodao/html-html-lessons1">
+<a href="https://github.com/philodao/html-lessons1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=philodao&repo=html-lessons1&theme=buefy" />
 </a>
 <br />
