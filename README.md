@@ -27,7 +27,7 @@ I am Philodao, working as a full stack developer in Korea.
 <code><img height="20" alt="typescript" src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=000000"></code>
 
   
-| <a href="https://github.com/philodao/philodao"><img align="center" src="https://github-readme-stats.vercel.app/api?username=philodao&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" /></a> | <a href="https://github.com/philodao/philodao"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philodao&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/philodao/philodao"><img align="center" src="https://github-readme-stats.vercel.app/api?username=philoda1o&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" /></a> | <a href="https://github.com/philodao/philodao"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philodao&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
   
